@@ -188,13 +188,3 @@ export function bionify() {
     }
   });
 }
-/** 
-export function patternsInclude(patterns, url) {
-  for (var pattern of patterns) {
-    if (url.match(pattern)) {
-      return true;
-    }
-  }
-  return false;
-}
-*/
