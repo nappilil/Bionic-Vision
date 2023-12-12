@@ -23,5 +23,5 @@ We would like to thank Bionify for their open-source code as this was developed 
 - [Bionify](https://github.com/Cveinnt/bionify)
 
 ## About
-This extension was developed by [Lilli](https://github.com/nappilil/Bionic-Vision).
+This extension was developed by [Lilli Nappi, Aditi Deshmukh, Ayushi Gupta, Shannon McGratty, and Matt Kearney](https://github.com/nappilil/Bionic-Vision).
 
