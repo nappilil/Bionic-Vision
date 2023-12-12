@@ -8,10 +8,10 @@ This Bionic Reading Extension Bionic Vision is a chrome browser extension design
 - **Customizable Options**: Choose from a variety of options to tailor to personal needs. 
 
 ## Installation
-1. download this repository as a zip file and extract its content.
-2. manage extensions in settings and turn on developer mode
-3. upload the extracted zip file by clicking on load unpacked
-4. if you plan on changing any of the code must reload the uploaded folder to update
+1. Download this repository as a zip file and extract its content.
+2. Manage extensions in settings and turn on developer mode
+3. Upload the extracted zip file by clicking on load unpacked
+4. If you plan on changing any of the code must reload the uploaded folder to update
 
 ## Usage
 1. **Activate Extension**: Click on the extension icon in the browser toolbar and click Toggle Bionic to turn on and off
