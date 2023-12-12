@@ -18,11 +18,6 @@ This Bionic Reading Extension Bionic Vision is a chrome browser extension design
 2. **Adjust Settings**: Customize the reading experience by adjusting settings such as boldness and opacity
 3. **Start Reading**: Navigate to your desired webpage or document and start reading with the enhanced bionic reading features.
 
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-
 ## Acknowledgments
 We would like to thank Bionify for their open-source code as this was developed from their Bionic Reading Algorithm. 
 - [Bionify](https://github.com/Cveinnt/bionify)
