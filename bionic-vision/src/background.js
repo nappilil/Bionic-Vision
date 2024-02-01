@@ -14,7 +14,6 @@ chrome.runtime.onInstalled.addListener(() => {
   });
 });
 
-
 chrome.commands.onCommand.addListener(async (command) => {
   if (command === "toggle-bionify") {
     let [tab] = await chrome.tabs.query({ active: true, currentWindow: true });

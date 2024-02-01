@@ -9,7 +9,7 @@ let applyButton = document.getElementById("applyButton");
 let restoreButton = document.getElementById("restore-button");
 let highlightSheetInput = document.getElementById("highlight-input");
 let restSheetInput = document.getElementById("rest-input");
-
+//let algorithmInput = document.getElementById("algorithmInput");
 
 document.addEventListener('DOMContentLoaded', function() {
   var button = document.getElementById('convertButton');
@@ -98,7 +98,6 @@ applyButton.addEventListener("click", async () => {
   });
 });
 
-
 function onHighlightInputChange() {
   chrome.storage.sync.set({ highlightSheet: highlightSheetInput.value });
 }
@@ -106,3 +105,8 @@ function onHighlightInputChange() {
 function onRestInputChange() {
   chrome.storage.sync.set({ restSheet: restSheetInput.value });
 }
+/** 
+function onAlgorithmInputChange() {
+  chrome.storage.sync.set({ algorithm: algorithmInput.value });
+}
+*/
