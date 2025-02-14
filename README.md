@@ -1,7 +1,7 @@
 # Bionic-Vision
 Our CS 545 Final Project
 This Bionic Reading Extension Bionic Vision is a chrome browser extension designed to enhance reading experiences by utilizing bionic reading. Bionic reading involves techniques to optimize reading speed and comprehension by bolding the first half of each word the brain is able to complete the word automatically.
-
+![Bionic Vision Example](https://media.licdn.com/dms/image/v2/D4E2DAQH1YHh2szciJQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1707786533383?e=1740103200&v=beta&t=O6IIWlHOqAJd-mjEVSYILxJrXIz60pRzKZ2oIP-CpfA)
 ## Features
 - **Focus Enhancement**: Minimize distractions and enhance focus on the current reading material.
 - **PDF Functionality**: Apply bionic reading to PDFs through a free online PDF-to-HTML converter.
